@@ -1,16 +1,16 @@
 package model.domain;
 
-public class Golosiona {
+public class Golosina {
 	protected int codigo;
 	protected String nombre;
 	protected double precio;
 	protected String ingredientes;
 	
-	public Golosiona() {
+	public Golosina() {
 		// TODO Auto-generated constructor stub
 	}
 
-	public Golosiona(int codigo, String nombre, double precio, String ingredientes) {
+	public Golosina(int codigo, String nombre, double precio, String ingredientes) {
 		this.codigo = codigo;
 		this.nombre = nombre;
 		this.precio = precio;
